@@ -1,0 +1,24 @@
+source_id,source_name,source_slug,target_id,target_name,target_slug,action
+21,"Back Panel","back-panel",4,"Back Panel","back-panel",MAPPED_EXISTING
+178,"Buy Mobile Batteries Wholesale | Original Quality Battery","battery",2,"Battery","battery",MAPPED_EXISTING
+49,"Camera Glass","camera-glass",5,"Camera Glass","camera-glass",MAPPED_EXISTING
+18,"Charging Connectors","charging-connectors",9,"Charging Connectors","charging-connectors",MAPPED_EXISTING
+17,"Charging Flex","charging-flex",3,"Charging Flex","charging-flex",MAPPED_EXISTING
+236,"Display Conectors","display-conectors",10,"Display Conectors","display-conectors",MAPPED_EXISTING
+167,"Fingerprint Sensor","fingerprint-censor",11,"Fingerprint Sensor","fingerprint-censor",MAPPED_EXISTING
+26,"Keypad LCD","keypad-lcd",12,"Keypad LCD","keypad-lcd",MAPPED_EXISTING
+32,"Main Flex","main-flex",13,"Main Flex","main-flex",MAPPED_EXISTING
+25,"Microphone","microphone",14,"Microphone","microphone",MAPPED_EXISTING
+22,"Middle Panel","middle-panel",15,"Middle Panel","middle-panel",MAPPED_EXISTING
+24,"Oca Touch Glass","oca-touch-glass",7,"OCA Glass","oca-glass",MAPPED_EXISTING
+20,"On / Off Flex","on-off-flex",16,"On / Off Flex","on-off-flex",MAPPED_EXISTING
+33,"ORIGNAL CHARGING FLEX","orignal-charging-flex",3,"Charging Flex","charging-flex",MAPPED_EXISTING
+15,"Other Products","other-products",17,"Other Products","other-products",MAPPED_EXISTING
+50,"Side Rubber Key","side-rubber-key",18,"Side Rubber Key","side-rubber-key",MAPPED_EXISTING
+35,"Sim Holder","sim-holder",19,"Sim Holder","sim-holder",MAPPED_EXISTING
+343,"Smart Phone","smart-phone",20,"Smart Phone","smart-phone",MAPPED_EXISTING
+23,"Speaker","speaker",6,"Speaker","speaker",MAPPED_EXISTING
+47,"speaker jali","speaker-jali",21,"Speaker Grill / Jali","speaker-jali",MAPPED_EXISTING
+19,"Tools","tools",8,"Repair Tools","repair-tools",MAPPED_EXISTING
+16,"Touch Pad","touch-pad",22,"Touch Pad","touch-pad",MAPPED_EXISTING
+230,"Volume Flex","volume-flex",23,"Volume Flex","volume-flex",MAPPED_EXISTING

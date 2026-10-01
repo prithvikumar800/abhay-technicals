@@ -1,0 +1,17 @@
+brand_name,brand_slug,product_count,action
+"Apple","apple",16,MAPPED_AND_INDEXED
+"Google Pixel","google-pixel",0,MAPPED_AND_INDEXED
+"Infinix","infinix",108,MAPPED_AND_INDEXED
+"Itel","itel",56,MAPPED_AND_INDEXED
+"Lava","lava",29,MAPPED_AND_INDEXED
+"Motorola","motorola",121,MAPPED_AND_INDEXED
+"Nokia","nokia",46,MAPPED_AND_INDEXED
+"OnePlus","oneplus",51,MAPPED_AND_INDEXED
+"Oppo","oppo",378,MAPPED_AND_INDEXED
+"Poco","poco",34,MAPPED_AND_INDEXED
+"Realme","realme",303,MAPPED_AND_INDEXED
+"Samsung","samsung",279,MAPPED_AND_INDEXED
+"Tecno","tecno",111,MAPPED_AND_INDEXED
+"Vivo","vivo",539,MAPPED_AND_INDEXED
+"Xiaomi","xiaomi",420,MAPPED_AND_INDEXED
+"Unbranded / Generic","unbranded",355,RETAINED_NULL

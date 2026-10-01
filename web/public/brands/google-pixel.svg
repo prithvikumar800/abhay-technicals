@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Google Pixel Logo -->
+  <g transform="translate(18, 12)">
+    <path d="M17.6 7.2 C17.6 6.7 17.6 6.2 17.5 5.7 H0 V12.7 H9.9 C9.5 14.8 8.2 16.6 6.3 17.8 V22.1 H12.2 C15.6 19 17.6 14.3 17.6 7.2 Z" fill="#4285F4" transform="translate(18, 9) scale(0.9)"/>
+    <path d="M16.4 23.4 C21.4 23.4 25.5 21.7 28.6 18.9 L22.7 14.6 C21.1 15.7 18.9 16.4 16.4 16.4 C11.6 16.4 7.5 13.2 6 8.9 H0 V13.5 C3.1 19.4 9.3 23.4 16.4 23.4 Z" fill="#34A853" transform="translate(1.5, 7.5) scale(0.9)"/>
+    <path d="M6 13.9 C5.6 12.8 5.4 11.6 5.4 10.4 C5.4 9.2 5.6 8 6 6.9 V2.3 H0 C-1.3 4.8 -2 7.5 -2 10.4 C-2 13.3 -1.3 16 0 18.5 L6 13.9 Z" fill="#FBBC05" transform="translate(8, 7.5) scale(0.9)"/>
+    <path d="M16.4 4.6 C19.1 4.6 21.6 5.5 23.5 7.4 L28.7 2.2 C25.5 -0.8 21.4 -2.6 16.4 -2.6 C9.3 -2.6 3.1 1.4 0 7.3 L6 11.9 C7.5 7.6 11.6 4.6 16.4 4.6 Z" fill="#EA4335" transform="translate(1.5, 12) scale(0.9)"/>
+  </g>
+  <text x="68" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Product Sans', 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#3C4043">Pixel</text>
+</svg>

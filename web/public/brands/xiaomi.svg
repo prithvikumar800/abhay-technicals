@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Xiaomi Logo: Iconic Orange Squircle + Wordmark -->
+  <!-- Orange Squircle Badge -->
+  <rect x="18" y="10" width="40" height="40" rx="12" fill="#FF6900"/>
+  <!-- MI Monogram inside badge -->
+  <g fill="#FFFFFF">
+    <!-- m -->
+    <path d="M26 23 H31 V37 H26 Z"/>
+    <path d="M31 23 H43 V37 H39 V27 H35 V37 H31 Z"/>
+    <rect x="35" y="27" width="4" height="10"/>
+    <!-- i -->
+    <rect x="46" y="23" width="4" height="14"/>
+    <circle cx="48" cy="19" r="2.2" fill="#FFFFFF"/>
+  </g>
+  <!-- Xiaomi Wordmark -->
+  <text x="70" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#1E293B" letter-spacing="-0.5">Xiaomi</text>
+</svg>

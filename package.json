@@ -1,0 +1,28 @@
+{
+  "name": "abhay-technicals-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ABHAY TECHNICALS - B2B & Retail E-Commerce Platform Monorepo Orchestration",
+  "scripts": {
+    "dev": "node dev-runner.js",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:web": "npm --prefix web run dev",
+    "dev:admin": "npm --prefix admin run dev",
+    "test:backend": "npm --prefix backend test",
+    "test:web": "npm --prefix web test",
+    "test:admin": "npm --prefix admin test",
+    "build:backend": "npm --prefix backend run build",
+    "build:web": "npm --prefix web run build",
+    "build:admin": "npm --prefix admin run build",
+    "db:migrate": "npm --prefix backend run prisma:migrate",
+    "db:seed": "npm --prefix backend run prisma:seed"
+  },
+  "keywords": [
+    "mobile-spare-parts",
+    "b2b-ecommerce",
+    "abhay-technicals"
+  ],
+  "author": "ABHAY TECHNICALS",
+  "license": "UNLICENSED"
+}

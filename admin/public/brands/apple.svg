@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Apple Logo: Iconic Apple Icon + Elegant Wordmark -->
+  <g fill="#0F172A">
+    <!-- Apple Icon -->
+    <path d="M52.4 17.5 C54.5 14.8 56 11.2 55.6 7.5 C52.5 7.6 48.6 9.7 46.4 12.3 C44.5 14.6 42.8 18.2 43.3 21.8 C46.8 22.1 50.4 19.9 52.4 17.5 Z M56.8 22.8 C51.8 22.5 47.7 25.7 45.2 25.7 C42.7 25.7 39.3 23 35.5 23.1 C30.6 23.2 26.1 26 23.6 30.5 C18.4 39.5 22.3 52.9 27.3 60 C29.7 63.5 32.5 67.4 36.3 67.2 C40 67 41.5 64.7 45.9 64.7 C50.4 64.7 51.6 67.2 55.6 67.1 C59.6 67 62.1 63.6 64.5 60.1 C67.3 56.1 68.5 52.1 68.7 51.9 C68.5 51.8 60.8 48.8 60.7 40 C60.6 32.6 66.7 29.1 67 28.9 C63.5 23.8 58.1 23 56.8 22.8 Z" transform="translate(10, -5) scale(0.65)"/>
+    <!-- Wordmark "Apple" -->
+    <text x="75" y="38" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5">Apple</text>
+  </g>
+</svg>

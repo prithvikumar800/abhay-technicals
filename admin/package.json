@@ -1,0 +1,38 @@
+{
+  "name": "@abhay-technicals/admin",
+  "version": "1.0.0",
+  "description": "Abhay Technicals E-Commerce Admin Dashboard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint",
+    "test": "node --test tests/**/*.test.js tests/**/*.test.ts"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.475.0",
+    "next": "14.2.23",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwind-merge": "2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.19",
+    "@types/react": "18.3.18",
+    "@types/react-dom": "18.3.5",
+    "autoprefixer": "10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.23",
+    "postcss": "8.5.1",
+    "tailwindcss": "3.4.17",
+    "tsx": "4.19.2",
+    "typescript": "5.7.3"
+  },
+  "engines": {
+    "node": ">=20.0.0 <25.0.0",
+    "npm": ">=10.0.0"
+  }
+}

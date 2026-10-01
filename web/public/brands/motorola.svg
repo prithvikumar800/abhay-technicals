@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Motorola Logo: Iconic Circular Batwing M + Wordmark -->
+  <!-- Blue Circle with Batwing M -->
+  <circle cx="34" cy="30" r="18" fill="#001489"/>
+  <path d="M25 36 C25 36 29 20 31 20 C33 20 34 26 34 26 C34 26 35 20 37 20 C39 20 43 36 43 36 C41 33 39 31 37 31 C35 31 34 35 34 35 C34 35 33 31 31 31 C29 31 27 33 25 36 Z" fill="#FFFFFF"/>
+  
+  <!-- Motorola text -->
+  <text x="60" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#001489" letter-spacing="-0.5">motorola</text>
+</svg>

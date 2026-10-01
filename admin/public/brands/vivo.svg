@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Vivo Logo: Authentic Blue Wordmark -->
+  <g fill="#0066FF">
+    <!-- First 'v' -->
+    <path d="M18 16 L29 44 H37 L48 16 H39 L33 35 L27 16 Z"/>
+    <!-- 'i' -->
+    <rect x="54" y="24" width="8" height="20" rx="2"/>
+    <circle cx="58" cy="18" r="4"/>
+    <!-- Second 'v' -->
+    <path d="M68 16 L79 44 H87 L98 16 H89 L83 35 L77 16 Z"/>
+    <!-- 'o' -->
+    <path d="M120 15 C107.5 15 99 23.5 99 30 C99 36.5 107.5 45 120 45 C132.5 45 141 36.5 141 30 C141 23.5 132.5 15 120 15 Z M120 22 C127.5 22 132 26 132 30 C132 34 127.5 38 120 38 C112.5 38 108 34 108 30 C108 26 112.5 22 120 22 Z"/>
+  </g>
+</svg>
