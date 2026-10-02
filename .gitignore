@@ -65,3 +65,7 @@ mobile/ios/Flutter/flutter_export_environment.sh
 .tools/
 */.tools/
 mobile/.tools/
+
+# Android APK / AAB binaries
+*.apk
+*.aab
