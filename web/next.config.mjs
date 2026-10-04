@@ -4,7 +4,11 @@ const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   images: {
-    domains: ['abhaytechnicals.com', 'darkgreen-goat-677875.hostingersite.com'],
+    domains: [
+      'abhaytechnicals.com',
+      'darkgreen-goat-677875.hostingersite.com',
+      'darkseagreen-jellyfish-939190.hostingersite.com'
+    ],
     unoptimized: true,
   },
   async rewrites() {
