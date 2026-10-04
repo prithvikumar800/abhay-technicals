@@ -1,0 +1,21 @@
+export declare const env: {
+    NODE_ENV: "development" | "test" | "production";
+    PORT: number;
+    API_PREFIX: string;
+    CORS_ORIGIN: string;
+    DATABASE_URL: string;
+    JWT_ACCESS_SECRET: string;
+    JWT_REFRESH_SECRET: string;
+    JWT_ACCESS_EXPIRY: string;
+    JWT_REFRESH_EXPIRY: string;
+    USE_MOCK_PROVIDERS: boolean;
+    DELHIVERY_BASE_URL: string;
+    WHATSAPP_API_URL?: string | undefined;
+    WHATSAPP_PHONE_NUMBER_ID?: string | undefined;
+    WHATSAPP_ACCESS_TOKEN?: string | undefined;
+    RAZORPAY_KEY_ID?: string | undefined;
+    RAZORPAY_KEY_SECRET?: string | undefined;
+    CASHFREE_APP_ID?: string | undefined;
+    CASHFREE_SECRET_KEY?: string | undefined;
+    DELHIVERY_API_KEY?: string | undefined;
+};

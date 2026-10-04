@@ -8,6 +8,8 @@ package-lock.json
 */.next/
 dist/
 */dist/
+!backend/dist/
+!backend/dist/**
 build/
 */build/
 out/
